@@ -1,0 +1,4 @@
+gunicorn
+parse
+webob
+pytest 
