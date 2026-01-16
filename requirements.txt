@@ -2,3 +2,6 @@ gunicorn
 parse
 webob
 pytest 
+requests
+requests-wsgi-adapter
+pytest-cov
